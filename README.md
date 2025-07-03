@@ -35,7 +35,7 @@ Screenshot was made by [Screenshot Capture](https://chromewebstore.google.com/de
 
 ### What I learned
 
-
+A pretty easy challenge. Don't visibly change styles between mobile and desktop versions;
 
 ### Useful resources
 
